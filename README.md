@@ -1,7 +1,7 @@
 # Ant-Ecosystem
 An agent-based ant colony simulation built in Python using Pygame, designed to model swarm intelligence and emergent pathfinding. Simulates ants forming efficient routes through pheromone-based communication between agents.
 
-(![Simulation Demo](https://raw.githubusercontent.com/LeviathanGamez/Ant-Ecosystem/main/assets/Ant.gif))
+![Simulation Demo](https://raw.githubusercontent.com/LeviathanGamez/Ant-Ecosystem/main/assets/Ant.gif)
 
 Ants operate as independent agents that explore the environment using directional sensors to detect pheromone concentrations. Beginning at the central anthill, they initially move in random directions while laying homing pheromones. Upon discovering food, ants follow these home pheromone trails back to the colony while depositing food pheromones, creating an emergent trail network that other agents can follow.
 
