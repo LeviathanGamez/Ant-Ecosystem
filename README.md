@@ -10,6 +10,7 @@ As more ants travel along successful routes, more efficient paths are reinforced
 Each ant functions as an independent agent and uses three directional sensors—forward, left, and right—to measure nearby pheromone concentrations and determine its movement. Through these local decisions, ants are able to navigate, explore, and collectively optimize routes without centralized coordination, resulting in emergent swarm intelligence and adaptive path formation.
 
 To improve performance, the simulation uses spatial partitioning, dividing pheromones into a grid-based structure so ants only evaluate nearby pheromones rather than the entire environment. This significantly reduces computation and allows smooth simulations with dozens of active agents.
+
 Full Video: https://youtu.be/M9s3M4ELz9w
 
 Features:
